@@ -13,10 +13,10 @@
   - **JavaScript**, **Python**, **Java**, **SQL**, **R**, **C/C++**, **PHP**
 
 - Web Framework (RunTime Env & Backend & Frontend): 
-  - **Node.JS**, **Flask**, **React.JS**, **Next.JS**
+  - **Node.JS**, **Flask**, **React.JS**
  
 - Mobile Development:
-  - **SwiftUI & Swift**, **React Native**
+  - **React Native**
  
 - Database: 
   - **MySQL**, **Oracle**

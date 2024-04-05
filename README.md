@@ -11,15 +11,14 @@
 ### 💻 Developer & User & Learner of:
 - Programming: 
   - **Python**, **JavaScript**, **Java**, **SQL**, **C/C++**, **R**, **PHP**
-
 - Web Framework: 
   - **Node.JS**, **Flask**, **React.JS**
- 
 - Mobile Development:
   - **React Native**
- 
 - Database: 
   - **MySQL**, **Oracle**
+- Machine Learning:
+  - PyTorch, Numpy, Pandas
 ---
 ### 🌱 Currently learning & Interested in:
 - System Programming

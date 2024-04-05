@@ -10,7 +10,7 @@
 ---
 ### 💻 Developer & User & Learner of:
 - Programming: 
-  - **JavaScript**, **Python**, **Java**, **SQL**, **R**, **C/C++**, **PHP**
+  - **Python**, **JavaScript**, **Java**, **SQL**, **C/C++**, **R**, **PHP**
 
 - Web Framework (RunTime Env & Backend & Frontend): 
   - **Node.JS**, **Flask**, **React.JS**

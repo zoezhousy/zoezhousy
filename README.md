@@ -3,6 +3,7 @@
 - 👀 I'm an undergraduate student at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)
   - **Major in [Computer Science](https://www.polyu.edu.hk/comp/)**
   - Minor in [Applied Mathematics](https://www.polyu.edu.hk/ama/)
+- I’m interested in Web Development & Computer Vision，Internet of Things(IoT)
 ---
 ### 🔭 Working Experiences
 - Sina.com Technology Co. Ltd (on-site – Beijing, China)

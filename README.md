@@ -12,7 +12,7 @@
 - Programming: 
   - **Python**, **JavaScript**, **Java**, **SQL**, **C/C++**, **R**, **PHP**
 
-- Web Framework (RunTime Env & Backend & Frontend): 
+- Web Framework: 
   - **Node.JS**, **Flask**, **React.JS**
  
 - Mobile Development:

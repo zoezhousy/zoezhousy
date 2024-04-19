@@ -28,6 +28,8 @@
 - Computer System Security
 - Internet of Things(IoT)
 
+
+
 <!--
 **zoezhousy/zoezhousy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,4 +45,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoezhousy&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=zoezhousy&show_icons=true&theme=dark&hide_title=true](https://github-readme-stats.vercel.app/api/top-langs/?username=zoezhousy&show_icons=true&layout=compact&hide_title=true))](https://github.com/Cyebukayire)

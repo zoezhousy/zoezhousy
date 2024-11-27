@@ -27,7 +27,7 @@
 - Large Language Model Fine-tuning (RAG...)
 - Machine Learning, Data Mining
 - Computer Vision
-- Internet of Things(IoT)
+- Internet of Things(IoT) / Smart Environment
 ---
 ### Project Experience
 Project Experience:

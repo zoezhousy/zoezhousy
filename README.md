@@ -3,7 +3,7 @@
 - 👀 I'm an undergraduate student at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)
   - **Major in Computer Science**
   - Minor in Applied Mathematics
-- I’m interested in Web Development & Computer Vision, Machine Learning,Internet of Things(IoT)
+- I’m interested in Web Development, Machine Learning,Internet of Things(IoT)
 ---
 ### 🔭 Working Experiences
 - Ningbo Shimaotong Information Technology Co. Ltd
@@ -21,7 +21,7 @@
 - Machine Learning/Data Mining:
   - Scikit-learn, PyTorch, Numpy, Pandas, TensorFlow
 ---
-### 🌱 Currently learning & Interested in:
+### 🌱 Currently learning:
 - Large Language Model Fine-tuning (RAG...)
 - Machine Learning, Data Mining
 - Computer Vision
@@ -54,5 +54,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoezhousy&show_icons=true&layout=compact&hide_title=true)](https://github.com/Cyebukayire)
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoezhousy&show_icons=true&locale=en" alt="zoezhousy" /></p>
-
+-->

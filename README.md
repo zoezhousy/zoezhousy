@@ -13,15 +13,13 @@
 ---
 ### 💻 Developer & User & Learner of:
 - Programming: 
-  - **Python**, **JavaScript**, **Java**, **SQL**, **C/C++**, **R**, **PHP**
-- Web Framework: 
-  - **Node.JS**, **Flask**, **React.JS**
-- Mobile Development:
-  - **React Native**
+  - **Python**, **JavaScript**, **Java**, **TypeScript** **SQL**, **C/C++**, **R**, **PHP**
+- Backend & Frontend Framework: 
+  - **Flask**, **Vue.js**, **React.JS**, **React Native**, **Node.JS**, **Django**
 - Database: 
   - **MySQL**, **Oracle**
-- Machine Learning:
-  - PyTorch, Numpy, Pandas
+- Machine Learning/Data Mining:
+  - Scikit-learn, PyTorch, Numpy, Pandas, TensorFlow
 ---
 ### 🌱 Currently learning & Interested in:
 - Large Language Model Fine-tuning (RAG...)

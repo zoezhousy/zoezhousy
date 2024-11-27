@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm ZHOU Siyu, Zoey
 
 - 👀 I'm an undergraduate student at Hong Kong Polytechnic University
-  - **Major in Computer Science**
-  - Minor in Applied Mathematics
+  - **Major in Computer Science**, Minor in Applied Mathematics
 ---
 ### 🔭 Working Experiences
 - Ningbo Shimaotong Information Technology Co. Ltd
@@ -27,8 +26,7 @@
 - Internet of Things(IoT) / Smart Environment
 ---
 ### ⚡ Project Experience
-Project Experience:
-- Personal Information Manager (https://github.com/Ives-li/PIM);
+- Personal Information Manager (https://github.com/Ives-li/PIM)
 - E2EE Chat Web APP (https://github.com/zoezhousy/E2EE_Chat_Web_APP)
 - Canteen Queue Monitoring (https://github.com/zoezhousy/Canteen_Queue_Monitoring)
 - Multi-Thread Web Server (https://github.com/zoezhousy/COMP2322_Multi-Thread_Web_Server)

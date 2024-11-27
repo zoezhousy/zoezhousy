@@ -1,12 +1,14 @@
-### Hi there 👋 I'm ZHOU Siyu, Zoe
+### Hi there 👋 I'm ZHOU Siyu, Zoey
 
 - 👀 I'm an undergraduate student at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)
-  - **Major in [Computer Science](https://www.polyu.edu.hk/comp/)**
-  - Minor in [Applied Mathematics](https://www.polyu.edu.hk/ama/)
-- I’m interested in Web Development & Computer Vision，Internet of Things(IoT)
+  - **Major in Computer Science**
+  - Minor in Applied Mathematics
+- I’m interested in Web Development & Computer Vision, Machine Learning,Internet of Things(IoT)
 ---
 ### 🔭 Working Experiences
-- Sina.com Technology Co. Ltd (on-site – Beijing, China)
+- Ningbo Shimaotong Information Technology Co. Ltd
+  - Software Engineering Internship [May 2024 - Aug 2024]
+- Sina.com Technology Co. Ltd
   - Marketing Analyst Internship[May 2023 - July 2023]
 ---
 ### 💻 Developer & User & Learner of:
@@ -22,12 +24,19 @@
   - PyTorch, Numpy, Pandas
 ---
 ### 🌱 Currently learning & Interested in:
-- System Programming
-- Machine Learning
+- Large Language Model Fine-tuning (RAG...)
+- Machine Learning, Data Mining
 - Computer Vision
-- Computer System Security
 - Internet of Things(IoT)
-
+---
+### Project Experience
+Project Experience:
+- Personal Information Manager (https://github.com/Ives-li/PIM);
+- E2EE Chat Web APP (https://github.com/zoezhousy/E2EE_Chat_Web_APP)
+- Canteen Queue Monitoring (https://github.com/zoezhousy/Canteen_Queue_Monitoring)
+- Multi-Thread Web Server (https://github.com/zoezhousy/COMP2322_Multi-Thread_Web_Server)
+- Kaggle: House Price Prediction (https://github.com/zoezhousy/Kaggle_House_Price_Prediction)
+- Other projects could be found in my repositories
 
 
 <!--

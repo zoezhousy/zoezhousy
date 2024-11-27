@@ -1,15 +1,14 @@
 ### Hi there 👋 I'm ZHOU Siyu, Zoey
 
-- 👀 I'm an undergraduate student at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)
+- 👀 I'm an undergraduate student at Hong Kong Polytechnic University
   - **Major in Computer Science**
   - Minor in Applied Mathematics
-- I’m interested in Web Development, Machine Learning,Internet of Things(IoT)
 ---
 ### 🔭 Working Experiences
 - Ningbo Shimaotong Information Technology Co. Ltd
   - Software Engineering Internship [May 2024 - Aug 2024]
 - Sina.com Technology Co. Ltd
-  - Marketing Analyst Internship[May 2023 - July 2023]
+  - Marketing Analyst Internship [May 2023 - July 2023]
 ---
 ### 💻 Developer & User & Learner of:
 - Programming: 
@@ -27,7 +26,7 @@
 - Computer Vision
 - Internet of Things(IoT) / Smart Environment
 ---
-### Project Experience
+### ⚡ Project Experience
 Project Experience:
 - Personal Information Manager (https://github.com/Ives-li/PIM);
 - E2EE Chat Web APP (https://github.com/zoezhousy/E2EE_Chat_Web_APP)
@@ -51,9 +50,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoezhousy&show_icons=true&layout=compact&hide_title=true)](https://github.com/Cyebukayire)
-
+-->
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoezhousy&show_icons=true&locale=en" alt="zoezhousy" /></p>
 -->

@@ -3,12 +3,6 @@
 - 👀 I'm an undergraduate student at Hong Kong Polytechnic University
   - **Major in Computer Science**, Minor in Applied Mathematics
 ---
-### 🔭 Working Experiences
-- Ningbo Shimaotong Information Technology Co. Ltd
-  - Software Engineering Internship [May 2024 - Aug 2024]
-- Sina.com Technology Co. Ltd
-  - Marketing Analyst Internship [May 2023 - July 2023]
----
 ### 💻 Developer & User & Learner of:
 - Programming: 
   - **Python**, **JavaScript**, **Java**, **TypeScript** **SQL**, **C/C++**, **R**, **PHP**

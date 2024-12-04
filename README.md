@@ -19,7 +19,7 @@
 - Computer Vision
 - Internet of Things(IoT) / Smart Environment
 ---
-### ⚡ Project Experience
+### ⚡ Project Experience:
 - Personal Information Manager (https://github.com/Ives-li/PIM)
 - E2EE Chat Web APP (https://github.com/zoezhousy/E2EE_Chat_Web_APP)
 - Canteen Queue Monitoring (https://github.com/zoezhousy/Canteen_Queue_Monitoring)

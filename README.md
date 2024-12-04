@@ -14,7 +14,7 @@
   - Scikit-learn, PyTorch, Numpy, Pandas, TensorFlow
 ---
 ### 🌱 Currently learning:
-- Large Language Model Fine-tuning (RAG...)
+- Large Language Model (Fine-tuning / RAG...)
 - Machine Learning, Data Mining
 - Computer Vision
 - Internet of Things(IoT) / Smart Environment

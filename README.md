@@ -20,11 +20,13 @@
 - Internet of Things(IoT) / Smart Environment
 ---
 ### ⚡ Project Experience:
-- Personal Information Manager (https://github.com/Ives-li/PIM)
-- E2EE Chat Web APP (https://github.com/zoezhousy/E2EE_Chat_Web_APP)
-- Canteen Queue Monitoring (https://github.com/zoezhousy/Canteen_Queue_Monitoring)
-- Multi-Thread Web Server (https://github.com/zoezhousy/COMP2322_Multi-Thread_Web_Server)
-- Kaggle: House Price Prediction (https://github.com/zoezhousy/Kaggle_House_Price_Prediction)
+- [Personal Information Manager](https://github.com/Ives-li/PIM)
+- [E2EE Chat Web APP](https://github.com/zoezhousy/E2EE_Chat_Web_APP)
+- [Canteen Queue Monitoring](https://github.com/zoezhousy/Canteen_Queue_Monitoring)
+- [Multi-Thread Web Server](https://github.com/zoezhousy/COMP2322_Multi-Thread_Web_Server)
+- Kaggle:
+  - [House Price Prediction](https://github.com/zoezhousy/Kaggle_House_Price_Prediction)
+  - [Don't Overfit](https://github.com/zoezhousy/COMP4432_Kaggle_Dont_Overfit_II)
 - Other projects could be found in my repositories
 
 

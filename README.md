@@ -2,6 +2,7 @@
 
 - 👀 I'm an undergraduate student at Hong Kong Polytechnic University
   - **Major in Computer Science**, Minor in Applied Mathematics
+
 <!--
 ---
 ### Working Experience
@@ -12,22 +13,7 @@
 - Weibo Technology Co. Ltd
   - Internship (Full-time) - [2023-05 ~ 2023-07]
 -->
----
-### 💻 Developer & User & Learner of:
-- Programming: 
-  - **Python**, **JavaScript**, **Java**, **TypeScript** **SQL**, **C/C++**, **R**, **PHP**
-- Backend & Frontend Framework: 
-  - **Flask**, **Vue.js**, **React.JS**, **React Native**, **Node.JS**, **Django**
-- Database: 
-  - **MySQL**, **Oracle**
-- Machine Learning/Data Mining:
-  - Scikit-learn, PyTorch, Numpy, Pandas, TensorFlow
----
-### 🌱 Currently learning:
-- Large Language Model (Fine-tuning / RAG...)
-- Machine Learning, Data Mining
-- Computer Vision
-- Internet of Things(IoT) / Smart Environment
+
 ---
 ### ⚡ Project Experience:
 - [Personal Information Manager](https://github.com/Ives-li/PIM)
@@ -38,6 +24,25 @@
   - [House Price Prediction](https://github.com/zoezhousy/Kaggle_House_Price_Prediction)
   - [Don't Overfit](https://github.com/zoezhousy/COMP4432_Kaggle_Dont_Overfit_II)
 - Other projects could be found in my repositories
+
+---
+### 💻 Developer & User & Learner of:
+- Programming: 
+  - **Python**, **JavaScript**, **Java**, **TypeScript** **SQL**, **C/C++**, **R**, **PHP**
+- Backend & Frontend Framework: 
+  - **Flask**, **Vue.js**, **React.JS**, **React Native**, **Node.JS**, **Django**
+- Database: 
+  - **MySQL**, **Oracle**
+- Machine Learning/Data Mining:
+  - Scikit-learn, PyTorch, Numpy, Pandas, TensorFlow
+
+---
+### 🌱 Currently learning:
+- Large Language Model (Fine-tuning / RAG...)
+- Machine Learning, Data Mining
+- Computer Vision
+- Internet of Things(IoT) / Smart Environment
+
 
 
 <!--

@@ -2,6 +2,16 @@
 
 - 👀 I'm an undergraduate student at Hong Kong Polytechnic University
   - **Major in Computer Science**, Minor in Applied Mathematics
+<!--
+---
+### Working Experience
+- Hong Kong Polytechnic University
+  - Student Assistant (Part-time) - [2024-12 ~ 2025-06]
+- Ningbo Shimaotong Information Technology Co. Ltd
+  - Software Engineering Intern (Full-time) - [2024-06 ~ 2024-08]
+- Weibo Technology Co. Ltd
+  - Internship (Full-time) - [2023-05 ~ 2023-07]
+-->
 ---
 ### 💻 Developer & User & Learner of:
 - Programming: 
